@@ -1,0 +1,12 @@
+{
+  "name": "ilusat-emadepaeva.github.io",
+  "version": "1.0.0",
+  "repository": "git@github.com:Ilusat-Emadepaeva/ilusat-emadepaeva.github.io.git",
+  "author": "Etheryte <karl.tarvas@suse.com>",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "scripts": {
+    "serve": "serve"
+  }
+}
