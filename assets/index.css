@@ -9,6 +9,7 @@ html {
   color: #2c323f;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Ubuntu", "Roboto", "Noto Sans", "Droid Sans", sans-serif;
+  font-size: 16px;
   font-size: calc(15px + 4 * (100vw / 2048));
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
