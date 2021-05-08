@@ -33,13 +33,17 @@ img.title {
 }
 
 .card-wrapper {
-  padding: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  width: 100%;
+  max-width: 1447px;
+  margin: 0 auto;
 }
 
 img.card {
   display: block;
   margin: 0 auto;
-  max-width: 1447px;
+  max-width: 100%;
   max-height: 90vh;
 }
 
